@@ -83,9 +83,9 @@ Stores camera configuration and credentials.
 Create a `.env` file:
 
 ```bash
-CAMERA_MURO=192.168.1.202
-CAMERA_MATHEUS=192.168.1.203
-CAMERA_VO=192.168.1.204
+CAMERA_1=192.168.1.11
+CAMERA_2=192.168.1.12
+CAMERA_3=192.168.1.13
 
 USER=admin
 PASSWORD=your_password
